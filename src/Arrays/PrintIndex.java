@@ -5,6 +5,7 @@ public class PrintIndex
     public static void main(String args[])
     {
     Scanner scr= new Scanner(System.in);
+    //array initialisation
     System.out.println("Enter size of the array");
     int size= scr.nextInt();
     System.out.println("Enter the elements of the array");
@@ -18,6 +19,7 @@ public class PrintIndex
     int x=scr.nextInt();
     for(int i=0;i<size;i++)
     {
+        //searching
         if(numbers[i]==x)
         {
             System.out.println(+ x +" found at index: "+i);
