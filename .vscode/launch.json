@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrintIndex",
+            "request": "launch",
+            "mainClass": "Arrays.PrintIndex",
+            "projectName": "Codeforces_9ded882b"
+        },
+        {
+            "type": "java",
             "name": "Pattern1",
             "request": "launch",
             "mainClass": "Pattern.Pattern1",
