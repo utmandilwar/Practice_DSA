@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SalaryExcludingMaxMin",
+            "request": "launch",
+            "mainClass": "Arrays.SalaryExcludingMaxMin",
+            "projectName": "Codeforces_9ded882b"
+        },
+        {
+            "type": "java",
             "name": "TwoSum",
             "request": "launch",
             "mainClass": "Arrays.TwoSum",
