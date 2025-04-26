@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumOfUniqueNumbers",
+            "request": "launch",
+            "mainClass": "Arrays.SumOfUniqueNumbers",
+            "projectName": "Codeforces_9ded882b"
+        },
+        {
+            "type": "java",
             "name": "ShuffleTheArray",
             "request": "launch",
             "mainClass": "Arrays.ShuffleTheArray",
