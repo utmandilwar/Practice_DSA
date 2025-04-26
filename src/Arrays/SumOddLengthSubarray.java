@@ -1,6 +1,7 @@
 package Arrays;
 import java.util.*;
 public class SumOddLengthSubarray
+//1588 leetcode
 {
     public static void main(String args[])
     {

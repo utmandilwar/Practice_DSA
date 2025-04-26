@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CountEqualAndDivisible",
+            "request": "launch",
+            "mainClass": "Arrays.CountEqualAndDivisible",
+            "projectName": "Codeforces_9ded882b"
+        },
+        {
+            "type": "java",
             "name": "SumOddLengthSubarray",
             "request": "launch",
             "mainClass": "Arrays.SumOddLengthSubarray",
