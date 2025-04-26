@@ -1,6 +1,7 @@
 package Arrays;
 import java.util.*;
 public class NumberOfGoodPairs
+//1512 leetcode
 {
     public static void main(String args[])
     {
