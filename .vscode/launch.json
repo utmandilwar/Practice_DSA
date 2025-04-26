@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NumberOfGoodPairs",
+            "request": "launch",
+            "mainClass": "Arrays.NumberOfGoodPairs",
+            "projectName": "Codeforces_9ded882b"
+        },
+        {
+            "type": "java",
             "name": "CountEqualAndDivisible",
             "request": "launch",
             "mainClass": "Arrays.CountEqualAndDivisible",
