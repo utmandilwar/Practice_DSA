@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RichestCustomerWealth",
+            "request": "launch",
+            "mainClass": "Arrays.RichestCustomerWealth",
+            "projectName": "Codeforces_9ded882b"
+        },
+        {
+            "type": "java",
             "name": "NumsSmallerThan",
             "request": "launch",
             "mainClass": "Arrays.NumsSmallerThan",
