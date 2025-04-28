@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NumsWidEvenDigits",
+            "request": "launch",
+            "mainClass": "Arrays.NumsWidEvenDigits",
+            "projectName": "Codeforces_9ded882b"
+        },
+        {
+            "type": "java",
             "name": "ConsecutiveOdds",
             "request": "launch",
             "mainClass": "Arrays.ConsecutiveOdds",

@@ -1,6 +1,7 @@
 package Arrays;
 import java.util.*;
 public class ConsecutiveOdds
+//1550 leetcode
 {
     public static void main(String args[])
     {
