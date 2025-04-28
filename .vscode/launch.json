@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BuildArrayPermutation",
+            "request": "launch",
+            "mainClass": "Arrays.BuildArrayPermutation",
+            "projectName": "Codeforces_9ded882b"
+        },
+        {
+            "type": "java",
             "name": "RichestCustomerWealth",
             "request": "launch",
             "mainClass": "Arrays.RichestCustomerWealth",
