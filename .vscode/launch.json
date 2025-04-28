@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ConsecutiveOdds",
+            "request": "launch",
+            "mainClass": "Arrays.ConsecutiveOdds",
+            "projectName": "Codeforces_9ded882b"
+        },
+        {
+            "type": "java",
             "name": "BuildArrayPermutation",
             "request": "launch",
             "mainClass": "Arrays.BuildArrayPermutation",
