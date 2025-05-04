@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ProductandSumofdig",
+            "request": "launch",
+            "mainClass": "Arrays.ProductandSumofdig",
+            "projectName": "Codeforces_9ded882b"
+        },
+        {
+            "type": "java",
             "name": "BinarySearch",
             "request": "launch",
             "mainClass": "Arrays.BinarySearch",
