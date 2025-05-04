@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "Searching.BubbleSort",
+            "projectName": "Codeforces_9ded882b"
+        },
+        {
+            "type": "java",
             "name": "ProductandSumofdig",
             "request": "launch",
             "mainClass": "Arrays.ProductandSumofdig",
