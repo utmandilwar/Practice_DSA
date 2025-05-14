@@ -15,10 +15,11 @@ public class BubbleSort
         }
         System.out.println("The array input is: "+Arrays.toString(arr));
         BubbleSort obj = new BubbleSort();
-        int[] result = obj.BubbleSort(arr, size);
+        int[] result = obj.BubbleSort2(arr, size);
         System.out.println("The input array after Sorting is: "+Arrays.toString(result));
+        scr.close();
     }
-    public int[] BubbleSort(int[] arr, int size)
+    public int[] BubbleSort2(int[] arr, int size)
     {
         for(int i=0;i<arr.length;i++)
         {
