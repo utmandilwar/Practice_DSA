@@ -9,6 +9,13 @@
             "name": "BubbleSort",
             "request": "launch",
             "mainClass": "Searching.BubbleSort",
+            "projectName": "Practice_DSA_cb35591c"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "Searching.BubbleSort",
             "projectName": "Codeforces_9ded882b"
         },
         {
