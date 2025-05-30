@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Modular_Exponentiation",
+            "request": "launch",
+            "mainClass": "Algorithms.Modular_Exponentiation",
+            "projectName": "Practice_DSA_cb35591c"
+        },
+        {
+            "type": "java",
+            "name": "Fast_Exponentiation",
+            "request": "launch",
+            "mainClass": "Algorithms.Fast_Exponentiation",
+            "projectName": "Practice_DSA_cb35591c"
+        },
+        {
+            "type": "java",
             "name": "PrimeSieveCounter",
             "request": "launch",
             "mainClass": "Algorithms.PrimeSieveCounter",
