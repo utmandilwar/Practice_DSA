@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumOfDivisors",
+            "request": "launch",
+            "mainClass": "Algorithms.SumOfDivisors",
+            "projectName": "Practice_DSA_cb35591c"
+        },
+        {
+            "type": "java",
             "name": "Eiclidean_Modulus",
             "request": "launch",
             "mainClass": "Algorithms.Eiclidean_Modulus",

@@ -1,6 +1,6 @@
 package Algorithms;
 import java.util.*;
-public class Eiclidean_Modulus
+public class Euclidean_Modulus
 {
     public static void main(String args[])
     {
