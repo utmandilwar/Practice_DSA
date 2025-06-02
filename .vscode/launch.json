@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Eiclidean_Modulus",
+            "request": "launch",
+            "mainClass": "Algorithms.Eiclidean_Modulus",
+            "projectName": "Practice_DSA_cb35591c"
+        },
+        {
+            "type": "java",
+            "name": "Euclidean_Algorithm",
+            "request": "launch",
+            "mainClass": "Algorithms.Euclidean_Algorithm",
+            "projectName": "Practice_DSA_cb35591c"
+        },
+        {
+            "type": "java",
             "name": "Modular_Exponentiation",
             "request": "launch",
             "mainClass": "Algorithms.Modular_Exponentiation",
