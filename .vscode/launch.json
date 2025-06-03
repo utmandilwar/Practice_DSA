@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NumberOfDivisorsAdvance",
+            "request": "launch",
+            "mainClass": "Algorithms.NumberOfDivisorsAdvance",
+            "projectName": "Practice_DSA_cb35591c"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDivisorsAdvance",
+            "request": "launch",
+            "mainClass": "Algorithms.SumOfDivisorsAdvance",
+            "projectName": "Practice_DSA_cb35591c"
+        },
+        {
+            "type": "java",
             "name": "SumOfDivisors",
             "request": "launch",
             "mainClass": "Algorithms.SumOfDivisors",
