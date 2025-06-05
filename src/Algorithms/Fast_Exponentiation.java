@@ -9,7 +9,8 @@ public class Fast_Exponentiation
         int a = scr.nextInt();
         System.out.println("Enter the power value");
         int N=scr.nextInt();
-        //System.out.println(Exponent(a, N));
+        System.out.println(Exponent(a, N));
+        scr.close();
     }
     public static int Exponent(int a, int N)
     {

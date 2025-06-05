@@ -1,6 +1,6 @@
 package Algorithms;
 import java.util.*;
-public class SumOfDivisors
+public class NumberOfDivisors
 {
     public static void main(String args[])
     {
