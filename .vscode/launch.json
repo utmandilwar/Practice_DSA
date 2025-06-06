@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Recursion.Factorial",
+            "projectName": "Practice_DSA_cb35591c"
+        },
+        {
+            "type": "java",
+            "name": "Name_N_Times",
+            "request": "launch",
+            "mainClass": "Recursion.Name_N_Times",
+            "projectName": "Practice_DSA_cb35591c"
+        },
+        {
+            "type": "java",
             "name": "OnetoN",
             "request": "launch",
             "mainClass": "Recursion.OnetoN",
