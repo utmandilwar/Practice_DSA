@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OnetoN",
+            "request": "launch",
+            "mainClass": "Recursion.OnetoN",
+            "projectName": "Practice_DSA_cb35591c"
+        },
+        {
+            "type": "java",
+            "name": "SumOfNum",
+            "request": "launch",
+            "mainClass": "Recursion.SumOfNum",
+            "projectName": "Practice_DSA_cb35591c"
+        },
+        {
+            "type": "java",
             "name": "Recursive_Printing",
             "request": "launch",
             "mainClass": "Recursion.Recursive_Printing",
