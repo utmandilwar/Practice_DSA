@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Reverse_array",
+            "request": "launch",
+            "mainClass": "Recursion.Reverse_array",
+            "projectName": "Practice_DSA_cb35591c"
+        },
+        {
+            "type": "java",
             "name": "Factorial",
             "request": "launch",
             "mainClass": "Recursion.Factorial",
