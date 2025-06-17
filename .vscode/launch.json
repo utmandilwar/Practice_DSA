@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Finding_Freq",
+            "request": "launch",
+            "mainClass": "Hashing.Finding_Freq",
+            "projectName": "Practice_DSA_cb35591c"
+        },
+        {
+            "type": "java",
             "name": "Reverse_array",
             "request": "launch",
             "mainClass": "Recursion.Reverse_array",
