@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Character_Hashing2",
+            "request": "launch",
+            "mainClass": "Hashing.Character_Hashing2",
+            "projectName": "Practice_DSA_cb35591c"
+        },
+        {
+            "type": "java",
             "name": "Finding_Freq",
             "request": "launch",
             "mainClass": "Hashing.Finding_Freq",
