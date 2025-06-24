@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "Searching.SelectionSort",
+            "projectName": "Practice_DSA_cb35591c"
+        },
+        {
+            "type": "java",
             "name": "Hashmap_2",
             "request": "launch",
             "mainClass": "Hashing.Hashmap_2",
