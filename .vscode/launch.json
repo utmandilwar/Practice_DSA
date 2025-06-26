@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LongestSubArray",
+            "request": "launch",
+            "mainClass": "Arrays.LongestSubArray",
+            "projectName": "Practice_DSA_cb35591c"
+        },
+        {
+            "type": "java",
             "name": "Union_SortedArrays",
             "request": "launch",
             "mainClass": "Arrays.Union_SortedArrays",
