@@ -1,3 +1,4 @@
+package LinkedList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -21,7 +22,7 @@ class Node
 
 public class Prg1
 {
-    public static void printLL(Node head)
+    static void printLL(Node head)
     {
         while(head!=null)
         {
@@ -30,7 +31,7 @@ public class Prg1
         }
     }
 
-    public static Node insertHead(Node head, int val)
+    static Node insertHead(Node head, int val)
     {
         Node temp = new Node(val, head);
         return temp;
