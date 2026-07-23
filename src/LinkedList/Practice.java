@@ -64,6 +64,51 @@ public class Practice {
         temp.next = newnode;
     }
 
+    public void deleteFirst()
+    {
+        if(head == null)
+        {
+            throw new RuntimeException("The list is empty");
+        }
+        int value = head.number;
+        head = head.next;
+        size--;
+    }
+
+    public void deleteLast()
+    {
+        if(head == null)
+        {
+            throw new RuntimeException("The list is empty");
+        }
+        if(head.next == null)
+        {
+            head = null;
+            return;
+        }
+        Node temp = head;
+        while(temp.next.next!=null)
+        {
+            temp = temp.next;
+        }
+        temp.next = null;
+    }
+
+    public void reverse()
+    {
+        Node prev = null;
+        Node current = head;
+        Node next;
+        while(current != null)
+        {
+            next = current.next;
+            current.next = prev;
+            prev = current;
+            current = next;
+        }
+        head = prev;
+    }
+
     public void display()
     {
         Node temp = head;
@@ -81,9 +126,21 @@ public class Practice {
         List.addFirst(10);
         List.addFirst(12);
         List.addFirst(8);
+        List.display();
+        System.out.println();
         List.addLast(55);
+        List.display();
+        System.out.println();
         List.Insert(44, 1);
         List.display();
+        System.out.println();
+        List.deleteFirst();
+        List.display();
+        System.out.println();
+        List.deleteLast();
+        List.display();
+        System.out.println();
+        List.reverse();
+        List.display();
     }
-
 }
