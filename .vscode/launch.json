@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseLinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList.ReverseLinkedList",
+            "projectName": "Practice_DSA_16522210"
+        },
+        {
+            "type": "java",
             "name": "Practice",
             "request": "launch",
             "mainClass": "LinkedList.Practice",
