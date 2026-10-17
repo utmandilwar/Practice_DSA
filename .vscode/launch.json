@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MergeTwoSortedList",
+            "request": "launch",
+            "mainClass": "LinkedList.MergeTwoSortedList",
+            "projectName": "Practice_DSA_16522210"
+        },
+        {
+            "type": "java",
             "name": "RemoveNthNodeFromEndOfList",
             "request": "launch",
             "mainClass": "LinkedList.RemoveNthNodeFromEndOfList",
