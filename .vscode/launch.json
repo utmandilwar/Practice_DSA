@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LinkedListCycleII",
+            "request": "launch",
+            "mainClass": "LinkedList.LinkedListCycleII",
+            "projectName": "Practice_DSA_16522210"
+        },
+        {
+            "type": "java",
             "name": "MiddleOfTheLinkedList",
             "request": "launch",
             "mainClass": "LinkedList.MiddleOfTheLinkedList",
