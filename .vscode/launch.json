@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RemoveDuplicatesFromSortedList",
+            "request": "launch",
+            "mainClass": "LinkedList.RemoveDuplicatesFromSortedList",
+            "projectName": "Practice_DSA_16522210"
+        },
+        {
+            "type": "java",
             "name": "IntersectionOfTwoLinkedList",
             "request": "launch",
             "mainClass": "LinkedList.IntersectionOfTwoLinkedList",
