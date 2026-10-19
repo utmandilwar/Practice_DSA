@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IntersectionOfTwoLinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList.IntersectionOfTwoLinkedList",
+            "projectName": "Practice_DSA_16522210"
+        },
+        {
+            "type": "java",
             "name": "MergeTwoSortedList",
             "request": "launch",
             "mainClass": "LinkedList.MergeTwoSortedList",
