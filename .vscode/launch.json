@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RemoveLinkedListElements",
+            "request": "launch",
+            "mainClass": "LinkedList.RemoveLinkedListElements",
+            "projectName": "Practice_DSA_16522210"
+        },
+        {
+            "type": "java",
             "name": "RemoveDuplicatesFromSortedList",
             "request": "launch",
             "mainClass": "LinkedList.RemoveDuplicatesFromSortedList",
