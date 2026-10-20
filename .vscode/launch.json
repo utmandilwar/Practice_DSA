@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SwapNodeInPairs",
+            "request": "launch",
+            "mainClass": "LinkedList.SwapNodeInPairs",
+            "projectName": "Practice_DSA_16522210"
+        },
+        {
+            "type": "java",
             "name": "ReorderList",
             "request": "launch",
             "mainClass": "LinkedList.ReorderList",
